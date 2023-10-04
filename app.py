@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-TOKEN = os.getenv('TOKEN')
+TOKEN = os.getenv('6556995841:AAGyBXCCbremRqXdHHuARfR3yaabQH78v-M')
 URL = os.getenv('URL')
 OWNER = os.getenv('OWNER')
 SHORTEN_URL_ENDPOINT = os.getenv('SHORTEN_URL_ENDPOINT')
